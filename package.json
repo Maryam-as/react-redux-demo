@@ -2,7 +2,7 @@
   "name": "redux-basics",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Maryam-as/react-redux-demo",
+  "homepage": "https://maryam-as.github.io/react-redux-demo",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/jest-dom": "^5.11.9",
