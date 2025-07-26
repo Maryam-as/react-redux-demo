@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Maryam-as/react-redux-demo/static/css/main.fc762f52.css",
-    "main.js": "/Maryam-as/react-redux-demo/static/js/main.1f07f925.js",
-    "index.html": "/Maryam-as/react-redux-demo/index.html",
-    "main.fc762f52.css.map": "/Maryam-as/react-redux-demo/static/css/main.fc762f52.css.map",
-    "main.1f07f925.js.map": "/Maryam-as/react-redux-demo/static/js/main.1f07f925.js.map"
+    "main.css": "/react-redux-demo/static/css/main.fc762f52.css",
+    "main.js": "/react-redux-demo/static/js/main.1f07f925.js",
+    "index.html": "/react-redux-demo/index.html",
+    "main.fc762f52.css.map": "/react-redux-demo/static/css/main.fc762f52.css.map",
+    "main.1f07f925.js.map": "/react-redux-demo/static/js/main.1f07f925.js.map"
   },
   "entrypoints": [
     "static/css/main.fc762f52.css",
